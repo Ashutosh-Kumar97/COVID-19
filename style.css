@@ -1,0 +1,49 @@
+.navbar{
+    box-shadow: 0 0 25px 0 black;
+    background-color:rgb(0, 0, 139) ;
+    margin-bottom:30px;
+} 
+#virus{
+    width:300px;
+    height:300px;
+}
+
+#virus2{
+    width:450px;
+    height:450px;
+   border-radius: 2%;
+   margin-top:100px;
+}
+#bullet{
+    width:42px;
+    height:42px;
+    float:right;
+    margin-right: 12px;
+    margin-top:9.5x;
+}
+#symptom{
+    background-image: linear-gradient(to right, #c30a0a, #da5044, #eb7f77, #f4aca9, #f6d9d9);
+}
+#coughing-man{
+    height:250px;
+    width:230px;
+    margin-left:250px;
+}
+.animate__shakeX{
+    -webkit-animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 5s;
+}
+#prevention{
+    background-image: linear-gradient(to right, #060a87, #0057b6, #0091cc, #85c8dc, #eefafa);
+}
+.card-img-top{
+    width:75px;
+    height:75px;
+    align-self: center;
+    margin-top:20px;
+}
+#prventionMethodNumber{
+    color:#ED5B3D;
+}
+
